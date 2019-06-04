@@ -9,5 +9,5 @@ as they should be now.
 
 Output of both classes go to their own separete files.
 
-Both programs are based on examples found in "Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne"
+Both programs are simplified version of examples found in "Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne"
 at pages 616-622 (Prims) and 624-627 (Kruskals) or at https://algs4.cs.princeton.edu/43mst/
