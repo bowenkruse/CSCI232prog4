@@ -1,0 +1,16 @@
+Minimum Spanning Tree Via Kruskal's Algorithm: 
+
+
+Edge-0 source: 1 destination: 2 weight: 1
+
+
+Edge-1 source: 1 destination: 3 weight: 2
+
+
+Edge-2 source: 3 destination: 4 weight: 2
+
+
+Edge-3 source: 0 destination: 2 weight: 3
+
+
+Edge-4 source: 4 destination: 5 weight: 6
